@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2167f3</color>
+    <color name="settingColor">#8631f6</color>
+    <color name="reportColor">#FF1201</color>
+    <color name="reportColorOld">#F3AB2E</color>
+    <color name="backColor">#656565</color>
+    <color name="shareColor">#f63186</color>
+    <color name="checkColor">#8631f6</color>
+    <color name="detailColor">#E4E4E4</color>
+    <color name="backgroundColor">#ffffff</color>
+    <color name="mainFontColor">#000000</color>
+</resources>

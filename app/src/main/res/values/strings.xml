@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hidrate.se!</string>
+    <string name="text1">Sua hidratação diária está em</string>
+    <string name="text2">Ajustes</string>
+    <string name="text3">Inserir</string>
+    <string name="text4">Relatório</string>
+    <string name="text5">Dicas</string>
+    <string name="text6">Retroceder dica</string>
+    <string name="text7">Avançar dica</string>
+    <string name="text8">Informação de água consumida</string>
+    <string name="gdo_tecnologia_2022">GDO Tecnologia 2022.</string>
+    <string name="adsense">ADSense</string>
+</resources>
